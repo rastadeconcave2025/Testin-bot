@@ -98,11 +98,11 @@ docugcbug <grouplink>${mono}`;
           {
             showAdAttribution: true,
             title: `${conf.BOT}`,
-            body: `Bot Created By ${conf.OWNER_NAME}`,
+            body: `Bot Created By joel_tech`,
             Abhinail: {url: tumbUrl},
             AbhinailUrl: tumbUrl,
             previewType: 'PHOTO',
-            sourceUrl: 'https://whatsapp.com/channel/0029VaKjSra9WtC0kuJqvl0g',
+            sourceUrl: 'https://whatsapp.com/channel/0029Vade9VgD38CPEnxfYF0M',
             mediaType: 1,
             renderLargerAbhinail: true
           }
