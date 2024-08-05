@@ -914,7 +914,7 @@ ${metadata.desc}`;
                 
                 if((conf.DP).toLowerCase() === 'yes') {     
                 let cmsg = `╔───⬡
-┃ ┃⬡TKM bot⬡┃
+┃ ┃⬡joel bot⬡┃
 ┃    Prefix : [ ${prefixe} ]
 ┃    Mode :${md}
 ┃    Total Commandes : ${evt.cm.length}︎
@@ -926,10 +926,10 @@ ${metadata.desc}`;
  report any. problems to the devs:)
  Thanks for supporting
  this project
- property of Cod3Uchiha
- property of Takudzwa Mlambo
- © Cod3Uchiha 
- © Takudzwa Mlambo
+ property of joel tech 
+ property of joel_it
+ ©  255714595078
+ © 255767570963
 ╚─────────────────···▸▸`;
                 await zk.sendMessage(zk.user.id, { text: cmsg });
                 }
